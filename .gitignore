@@ -1,0 +1,19 @@
+# 配置、运维和密钥只保存在独立私有仓库。
+/config/
+/docs/
+/tools/
+/snapshots/
+/secrets/
+/openclash_private/
+*.key
+*.pem
+*.p12
+*.pfx
+.env
+.env.*
+
+# 本地工具运行缓存。
+__pycache__/
+*.pyc
+.venv/
+*.tmp
