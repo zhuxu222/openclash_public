@@ -2,6 +2,7 @@ payload:
   # Lenovo / Motorola 企业域名优先按域名分流。
   - DOMAIN-SUFFIX,lenovo.com
   - DOMAIN-KEYWORD,lenovo
+  - DOMAIN-SUFFIX,mot-mobility.com
   - DOMAIN-SUFFIX,mot.com
   - DOMAIN-KEYWORD,mot
   - DOMAIN-SUFFIX,motorola.com
